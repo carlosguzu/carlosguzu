@@ -10,7 +10,7 @@
 
 ### 👨🏻‍💻 About Me
 
-Hi! I'm a Software Engineer based in Cartagena, Colombia, passionate about bridging the gap between design concepts and technical implementation.
+Hi! I'm a Software Engineer based in Colombia, passionate about bridging the gap between design concepts and technical implementation.
 
 * 🎓 I'm a recent graduate from Universidad Tecnológica de Bolívar, where I developed a strong foundation in Systems Engineering.
 * 💼 Previously, I worked as an Intern at Afinia (Grupo EPM), creating user-centric interfaces with Power Apps and automating workflows.
