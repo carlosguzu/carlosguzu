@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Carlos <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm Carlos <img src="https://media.giphy.com/media/hvRJCLFzcuSKh4sJPu/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <strong>Software Engineer (UX/UI Focus)</strong> | <strong>Frontend Developer</strong> | <strong>Automation Enthusiast</strong> | <strong>Linux Warrior</strong>
+  <strong>Software Engineer (UX/UI Focus)</strong> | <strong>Frontend Developer</strong> | <strong>Automation Enthusiast</strong> | <strong>Linux Rice 🍙</strong>
 </p>
 
 <hr>
@@ -10,13 +10,13 @@
 
 ### 👨🏻‍💻 About Me
 
-Hi! I'm a **Software Engineer** based in **Cartagena, Colombia**, passionate about bridging the gap between **design concepts** and **technical implementation**. 
+Hi! I'm a **Software Engineer** based in **Cartagena, Colombia**, passionate about bridging the gap between **design concepts** and **technical implementation**.
 
-* [cite_start]🎓 I'm a recent graduate from **Universidad Tecnológica de Bolívar**, where I developed a strong foundation in Systems Engineering with a **4.07 GPA**[cite: 24, 25, 26].
-* [cite_start]💼 Previously, I worked as an Intern at **Afinia (Grupo EPM)**, creating user-centric interfaces with **Power Apps** and automating workflows, reducing manual data entry by **40%**[cite: 10, 11, 13].
-* 🐧 I'm a **Linux enthusiast**! [cite_start]I love customizing my workflow with **Hyprland** & **Waybar** (Ricing is my therapy)[cite: 19, 22].
-* [cite_start]🎾 When I'm not coding, you can find me playing **Tennis** or playing the **Clarinet** in the symphony orchestra[cite: 37, 40].
-* [cite_start]🗣️ I speak **Spanish**, **English (C1)**, and I'm learning **French** and **Esperanto**[cite: 21].
+* 🎓 I'm a recent graduate from **Universidad Tecnológica de Bolívar**, where I developed a strong foundation in **Systems Engineering**.
+* 💼 Previously, I worked as an Intern at **Afinia (Grupo EPM)**, creating user-centric interfaces with **Power Apps** and automating workflows, reducing manual data entry by **40%**.
+* 🐧 I'm a **Linux enthusiast**! I love customizing my workflow with **Hyprland** & **Waybar** (Ricing is my therapy).
+* 🎾 When I'm not **developing solutions**, you can find me playing **Tennis** or playing the **Clarinet** in the symphony orchestra.
+* 🗣️ I speak **Spanish**, **English (C1)**, and I'm learning **French** and **Esperanto**.
 
 <br clear="all">
 
@@ -24,12 +24,11 @@ Hi! I'm a **Software Engineer** based in **Cartagena, Colombia**, passionate abo
 
 ### <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30"> Tech Stack & Tools
 
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="200" />
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="280" />
 
 **Languages & Core:**
 <br>
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
@@ -55,18 +54,18 @@ Hi! I'm a **Software Engineer** based in **Cartagena, Colombia**, passionate abo
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO_DE_GITHUB">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/TU_USUARIO">
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/TU_USUARIO_DE_GITHUB">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/TU_USUARIO">
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
   </a>
 </p>
 
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN_ID">
+  <a href="https://www.linkedin.com/in/carlosmguzman/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:carlosguzu02@outlook.es">
