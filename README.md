@@ -13,9 +13,9 @@
 Hi! I'm a **Software Engineer** based in **Cartagena, Colombia**, passionate about bridging the gap between **design concepts** and **technical implementation**.
 
 * 🎓 I'm a recent graduate from **Universidad Tecnológica de Bolívar**, where I developed a strong foundation in **Systems Engineering**.
-* 💼 Previously, I worked as an Intern at **Afinia (Grupo EPM)**, creating user-centric interfaces with **Power Apps** and automating workflows, reducing manual data entry by **40%**.
+* 💼 Previously, I worked as an Intern at **Afinia (Grupo EPM)**, creating user-centric interfaces with **Power Apps** and automating workflows.
 * 🐧 I'm a **Linux enthusiast**! I love customizing my workflow with **Hyprland** & **Waybar** (Ricing is my therapy).
-* 🎾 When I'm not **developing solutions**, you can find me playing **Tennis** or playing the **Clarinet** in the symphony orchestra.
+* 🎾 When I'm not **developing solutions**, you can find me playing **Tennis**.
 * 🗣️ I speak **Spanish**, **English (C1)**, and I'm learning **French** and **Esperanto**.
 
 <br clear="all">
@@ -54,10 +54,10 @@ Hi! I'm a **Software Engineer** based in **Cartagena, Colombia**, passionate abo
 ### ⚙️ GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/carlosguzu">
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/carlosguzu">
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
   </a>
 </p>
