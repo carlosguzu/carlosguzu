@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Carlos <img src="[https://media.giphy.com/media/hvRJCLFzcuSKh4sJPu/giphy.gif](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)" width="35"></h1>
+<h1 align="center">Hi there, I'm Carlos <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
 
 <p align="center">
   <strong>Software Engineer (UX/UI Focus)</strong> | <strong>Frontend Developer</strong> | <strong>Automation Enthusiast</strong> | <strong>Linux Warrior</strong>
