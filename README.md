@@ -1,22 +1,22 @@
-<h1 align="center">Hi there, I'm Carlos <img src="https://media.giphy.com/media/hvRJCLFzcuSKh4sJPu/giphy.gif" width="35"></h1>
+<h1 align="center">Hi there, I'm Carlos <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
 
 <p align="center">
-  <strong>Software Engineer (UX/UI Focus)</strong> | <strong>Frontend Developer</strong> | <strong>Automation Enthusiast</strong> | <strong>Linux Rice 🍙</strong>
+  Software Engineer (UX/UI Focus) | Frontend Developer | Automation Enthusiast | Linux Warrior 🍙
 </p>
 
-<hr>
+
 
 <img align="right" width="200" height="200" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" alt="graph"/>
 
 ### 👨🏻‍💻 About Me
 
-Hi! I'm a **Software Engineer** based in **Cartagena, Colombia**, passionate about bridging the gap between **design concepts** and **technical implementation**.
+Hi! I'm a Software Engineer based in Cartagena, Colombia, passionate about bridging the gap between design concepts and technical implementation.
 
-* 🎓 I'm a recent graduate from **Universidad Tecnológica de Bolívar**, where I developed a strong foundation in **Systems Engineering**.
-* 💼 Previously, I worked as an Intern at **Afinia (Grupo EPM)**, creating user-centric interfaces with **Power Apps** and automating workflows.
-* 🐧 I'm a **Linux enthusiast**! I love customizing my workflow with **Hyprland** & **Waybar** (Ricing is my therapy).
-* 🎾 When I'm not **developing solutions**, you can find me playing **Tennis**.
-* 🗣️ I speak **Spanish**, **English (C1)**, and I'm learning **French** and **Esperanto**.
+* 🎓 I'm a recent graduate from Universidad Tecnológica de Bolívar, where I developed a strong foundation in Systems Engineering.
+* 💼 Previously, I worked as an Intern at Afinia (Grupo EPM), creating user-centric interfaces with Power Apps and automating workflows, reducing manual data entry by 40%.
+* 🐧 I'm a Linux enthusiast! I love customizing my workflow with Hyprland & Waybar (Ricing is my therapy).
+* 🎾 When I'm not developing solutions, you can find me playing Tennis or playing the Clarinet in the symphony orchestra.
+* 🗣️ I speak Spanish, English (C1), and I'm learning French and Esperanto.
 
 <br clear="all">
 
