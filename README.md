@@ -27,6 +27,7 @@ Hi! I'm a Software Engineer based in Colombia, passionate about bridging the gap
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" width="200" />
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=Go)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=white)&nbsp;
