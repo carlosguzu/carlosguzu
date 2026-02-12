@@ -55,10 +55,10 @@ Hi! I'm a **Software Engineer** based in **Cartagena, Colombia**, passionate abo
 
 <p align="center">
   <a href="https://github.com/carlosguzu">
-    <img height="160" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api?username=carlosguzu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/carlosguzu">
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosguzu&layout=compact&theme=tokyonight"/>
   </a>
 </p>
 
