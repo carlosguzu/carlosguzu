@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Carlos <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
+<h1 align="center">Sup, Carlos here <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></h1>
 
 <p align="center">
   Software Engineer | Automation Enthusiast | Linux Warrior 🍙
